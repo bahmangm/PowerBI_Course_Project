@@ -60,3 +60,13 @@ Additionally, a price adjustment percentage can be set to see its impact on tota
 This tab uses similar visualizations to provide managers with detailed insights about customers. It includes information such as the top customer and top 100 customers by revenue. Donut charts display customer proportions based on **occupation** and **income level**. Additionally, it shows changes in **total customers** and **revenue per customer** over time.
 
 ![image](https://github.com/user-attachments/assets/9776d845-52c9-4521-94f9-07d222a4b5c1)
+
+<br>
+<hr>
+<br>
+
+This dashboard also contains a mobile view, including some of the most important visuals in an appropriate size.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7de23fe2-a904-415d-8a87-9b3678dd2e2b" alt="mobile view" width="500" />
+</p>
+
